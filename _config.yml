@@ -1,4 +1,4 @@
-baseurl: /drupal
+baseurl: /drupal-standard-components
 markdown: rdiscount
 pygments: true
 permalink: /:categories/:title
